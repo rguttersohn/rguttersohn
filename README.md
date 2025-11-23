@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rguttersohn
 - 👀 I’m interested in: Interactive data visuals and mapping applications that help breakdown complex research topics for all audiences.
-- 🌱 I’m currently working on upgrade CCC's Data Keeping Track Data Dashboard using Postgres (with PostGIS), Laravel, and Vue. 
+- 🌱 I’m currently working on upgrading CCC's Data Keeping Track Data Dashboard using Postgres (with PostGIS), Laravel, and Vue. 
 - 📫 How to reach me: rguttersohn@cccnewyork.org
 
 <!---

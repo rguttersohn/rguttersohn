@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rguttersohn
-- 👀 I’m interested in: Interactive designs that improve communicaton on complex topics.
-- 🌱 I’m currently learning: Vue 3
-- 💞️ I’m looking to collaborate on: D3 helper libraries. I created [D3-Sugar](https://github.com/rguttersohn/d3-sugar) and would love to gain some collaborators on this project.
+- 👀 I’m interested in: Interactive data visuals and mapping applications that help breakdown complex research topics for all audiences.
+- 🌱 I’m currently working on upgrade CCC's Data Keeping Track Data Dashboard using Postgres (with PostGIS), Laravel, and Vue. 
 - 📫 How to reach me: rguttersohn@cccnewyork.org
 
 <!---
